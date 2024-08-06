@@ -71,12 +71,19 @@ publishing {
                         organization = 'SamJakob'
                         organizationUrl = 'https://samjakob.com'
                     }
+
+                    developer {
+                        name = 'Stanley-Dam'
+                        email = 'ditisstanley@gmail.com'
+                        organization = 'Bonka-Software'
+                        organizationUrl = 'https://bonka.gg'
+                    }
                 }
 
                 scm {
-                    connection = 'scm:git:git://github.com/SamJakob/SpiGUI.git'
-                    developerConnection = 'scm:git:ssh://github.com:SamJakob/SpiGUI.git'
-                    url = 'https://github.com/SamJakob/SpiGUI'
+                    connection = 'scm:git:git://github.com/Bonka-Software/SpiGUI.git'
+                    developerConnection = 'scm:git:ssh://github.com:Bonka-Software/SpiGUI.git'
+                    url = 'https://github.com/Bonka-Software/SpiGUI'
                 }
             }
 
