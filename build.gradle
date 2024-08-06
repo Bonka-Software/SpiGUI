@@ -83,7 +83,7 @@ publishing {
                 scm {
                     connection = 'scm:git:git://github.com/Bonka-Software/SpiGUI.git'
                     developerConnection = 'scm:git:ssh://github.com:Bonka-Software/SpiGUI.git'
-                    url = 'https://github.com/Bonka-Software/SpiGUI'
+                    url = 'https://github.com/Bonka-Software/SpiGUI/tree/v1.3.2'
                 }
             }
 
